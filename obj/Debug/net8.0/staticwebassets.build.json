@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l8dT9Ie6tJWYy20+FaEICPIHHEnfj7MMx0oRffJQEUM=",
+  "Source": "CharmFinalAPI",
+  "BasePath": "_content/CharmFinalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
