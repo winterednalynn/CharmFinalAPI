@@ -37,3 +37,4 @@ C:\School\Database Development II\CSI 234 FINAL\CharmFinalAPI\obj\Debug\net8.0\r
 C:\School\Database Development II\CSI 234 FINAL\CharmFinalAPI\obj\Debug\net8.0\CharmFinalAPI.pdb
 C:\School\Database Development II\CSI 234 FINAL\CharmFinalAPI\obj\Debug\net8.0\CharmFinalAPI.genruntimeconfig.cache
 C:\School\Database Development II\CSI 234 FINAL\CharmFinalAPI\obj\Debug\net8.0\ref\CharmFinalAPI.dll
+C:\School\Database Development II\CSI 234 FINAL\CharmFinalAPI\obj\Debug\net8.0\CharmFinalAPI.sourcelink.json
